@@ -4,3 +4,4 @@
 ### Սա մշակողների կազմակերպություն կամ որևէ այլ բան չէ, ես պարզապես ուսանող եմ, ով ծրագրավորում է Java/Python/HTML-Css և այլնի վրա հիմնված: Ցանկանում եմ դառնալ պրոֆեսիոնալ ծրագրավորող
 
 ## **Crowdin** -> https://crowdin.com/profile/mmontagee
+## **YouTube** -> https://www.youtube.com/channel/UCVYf79bTZSxnKn6_R660aDw
