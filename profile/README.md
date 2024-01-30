@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">Public Archive Page of Current Active Projects Worked on By mMONTAGEe with Gerardagh</h2>
+<h2 align="center">Public Archive Page of Current Active Projects Worked on By mMONTAGEe with partners</h2>
 
 ###
 
