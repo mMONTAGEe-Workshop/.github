@@ -8,9 +8,6 @@
   <a href="https://www.youtube.com/@mmontageworkshop" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/YOUTUBE%20Channel-darkred?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40mmontageworkshop">
   </a>
-  <a href="https://discord.gg/t8NgCpw8SW" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/DISCORD%20SERVER%20-%20blue?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2Ft8NgCpw8SW">
-  </a>
     <a href="https://crowdin.com/profile/mmontagee" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/CROWDIN%20PAGE%20-%20black?style=for-the-badge&logo=crowdin&link=https%3A%2F%2Fcrowdin.com%2Fprofile%2Fmmontagee">
   </a>
